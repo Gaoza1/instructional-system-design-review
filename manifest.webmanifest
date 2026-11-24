@@ -1,0 +1,26 @@
+{
+  "name": "教学系统设计复习手册",
+  "short_name": "教学系统设计",
+  "description": "基于中国大学MOOC公开课程大纲整理的教学系统设计知识清单与章节测试。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f1e7",
+  "theme_color": "#3c69b0",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
